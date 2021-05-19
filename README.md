@@ -8,6 +8,6 @@ Foi feito algumas mudanças ao clone da DIO, com fins de entender melhor como fu
 
 
 
-<img src=".img/emilia-rezero.jpg">
+<img src="img/site.png">
 
 
