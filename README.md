@@ -8,6 +8,6 @@ Foi feito algumas mudanças ao clone da DIO, com fins de entender melhor como fu
 
 
 
-https://github.com/Horakal/Instagram-Clone-DIO/blob/master/img/Site.png
+<img src=https://github.com/Horakal/Instagram-Clone-DIO/blob/master/img/Site.png">
 
 
