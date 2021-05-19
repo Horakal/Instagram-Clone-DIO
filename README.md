@@ -8,5 +8,6 @@ Foi feito algumas mudanças ao clone da DIO, com fins de entender melhor como fu
 
 
 
-<img src="D:\Projetos\Instagram-Clone-DIO\img\Site.png" alt="Site" style="zoom:150%;" />
+![Instagram Clone Image] https://github.com/Horakal/Instagram-Clone-DIO/blob/master/img/Site.png)
+
 
